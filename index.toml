@@ -1,0 +1,84 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "ec22835dc62e7237f71d575ddf4f4b749202160934ea9c24d3bd977318fc8ee1"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "01fb8de4790c75eb8baeea98c549a82c3880ec145cb8dcf1969504128d0bb96a"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "b79754fe8766c1ce68592e47040b50ec764dba3162e653afd893dbf8b5edd2ef"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "36fc407b18fcfd9fd7cb5f3617e73d2aabb6a0341c1758fc86100492da14cdc5"
+metafile = true
+
+[[files]]
+file = "mods/held-item-info.pw.toml"
+hash = "0c112260d46107e052f34a6ad77db4b168f88445a755c3ac618129bba43bf0ab"
+metafile = true
+
+[[files]]
+file = "mods/hwyla.pw.toml"
+hash = "dda350fbdcecb0f4c7d3ae464d4414b6bdb197568841b17a179b3a31625d4f99"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "ea127e8f74006f3a9ce099f9e96adaa3b3f4f281231ece703c4e7f9732137ebd"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "a249a5c53a1a75106240bd5ea3e6f4d41153430b6291681dda464d427dae3e6d"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "9b059a546c7a0c5126441daf3a767e39c892bb8bfa451c1fedde2b00a9bfe119"
+metafile = true
+
+[[files]]
+file = "mods/mouse-wheelie.pw.toml"
+hash = "840a9d1919ee5cd43eb62853d64c4fc641794e90dcc69f42e948315c31681fd1"
+metafile = true
+
+[[files]]
+file = "mods/phosphor.pw.toml"
+hash = "320194672d311a72b137a1615ceaed1ef0ae2941bbf0e00d50735b8812a376d1"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.pw.toml"
+hash = "059a17ea9c1f60240a54fa3ea2e76af5d9721ecdfecf31aa39448caf68e0c699"
+metafile = true
+
+[[files]]
+file = "mods/screenshot-to-clipboard.pw.toml"
+hash = "b9f59c1eaddde8d284d91d791a28d83d69f7a4ed34a09529e438d5324cf26728"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "4d97bcc0dab988dde88e660a8d45f05fced858eabf0e6605c2c80e870661fb9b"
+metafile = true
+
+[[files]]
+file = "mods/tick-stasis.pw.toml"
+hash = "5a6e4cb2f7907958cc00174a6fae3c8705581d3b0b9fa607d55001e6fcff060d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Unity-Infinite-Base.zip"
+hash = "a99a6206354313841418009e96ffb22bdb9de7c40a985e57bb12706046b5f4f2"
+
+[[files]]
+file = "resourcepacks/Unity-Infinite-Dark.zip"
+hash = "494cd6671a9fe7f2e2b8cd068d63a70cccf5022832e1ae221390b71a5bbc6ae9"

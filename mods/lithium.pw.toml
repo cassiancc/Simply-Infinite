@@ -1,0 +1,7 @@
+name = "lithium"
+filename = "lithium-fabric-mc20w14infinite-0.5.0-SNAPSHOT.jar"
+
+[download]
+url = "https://github.com/ConGodsted/Lithium-Infinite/releases/download/0.5-infinite/lithium-fabric-mc20w14infinite-0.5.0-SNAPSHOT.jar"
+hash-format = "sha256"
+hash = "eb56752852903b32a95b9121a3b06257b1c84cd04a7a24ba77abd4c8ea58313f"

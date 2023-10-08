@@ -1,0 +1,13 @@
+name = "Hwyla"
+filename = "Hwyla-fabric-20w13b-1.9.21-72.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kr1RaEqy/versions/1lNrSxYE/Hwyla-fabric-20w13b-1.9.21-72.jar"
+hash-format = "sha1"
+hash = "76c34b436156ca123a7e0504c480cfc5e484f970"
+
+[update]
+[update.modrinth]
+mod-id = "kr1RaEqy"
+version = "1lNrSxYE"

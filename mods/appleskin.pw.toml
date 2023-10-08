@@ -1,0 +1,7 @@
+name = "appleskin"
+filename = "appleskin-1.0.8.jar"
+
+[download]
+url = "https://github.com/ConGodsted/AppleSkin-Infinite/releases/download/1.0.8-20w14infinite/appleskin-1.0.8.jar"
+hash-format = "sha256"
+hash = "ad04ca6b7febff76aa6472b0799bbb833005383af36af158fccd6133dad0a0c0"

@@ -1,0 +1,7 @@
+name = "alternate-current"
+filename = "alternate-current-mc20w14infinite-1.0.1.jar"
+
+[download]
+url = "https://github.com/ConGodsted/Alternate-Current-Infinite/releases/download/1.0.1-infinite/alternate-current-mc20w14infinite-1.0.1.jar"
+hash-format = "sha256"
+hash = "82704d0cd3ed9f06a75b59b17601b670f73d3dc682bd52721751bba8847739f3"
