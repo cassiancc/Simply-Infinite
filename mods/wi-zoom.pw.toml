@@ -1,0 +1,13 @@
+name = "WI Zoom"
+filename = "WI-Zoom-1.1-MC20w14infinite.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/o7DitHWP/versions/r3WsMnMm/WI-Zoom-1.1-MC20w14infinite.jar"
+hash-format = "sha1"
+hash = "4e79dcf21a5f2aae1f8e85371986c71c286144e3"
+
+[update]
+[update.modrinth]
+mod-id = "o7DitHWP"
+version = "r3WsMnMm"

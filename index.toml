@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE.txt"
+hash = "e3a994d82e644b03a792a930f574002658412f62407f5fee083f2555c5f23118"
+
+[[files]]
+file = "README.md"
+hash = "e4cb7b66af4b751a9e9bb30aed04109035262e487cb22483adc907af87075960"
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "ec22835dc62e7237f71d575ddf4f4b749202160934ea9c24d3bd977318fc8ee1"
 metafile = true
@@ -73,6 +81,11 @@ metafile = true
 [[files]]
 file = "mods/tick-stasis.pw.toml"
 hash = "5a6e4cb2f7907958cc00174a6fae3c8705581d3b0b9fa607d55001e6fcff060d"
+metafile = true
+
+[[files]]
+file = "mods/wi-zoom.pw.toml"
+hash = "adbf917ef57cf1aeb3ddeef4f2918759efcd87aa888766e1b3629c4531e4ee02"
 metafile = true
 
 [[files]]
