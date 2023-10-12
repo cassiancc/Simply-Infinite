@@ -6,7 +6,11 @@ hash = "e3a994d82e644b03a792a930f574002658412f62407f5fee083f2555c5f23118"
 
 [[files]]
 file = "README.md"
-hash = "e4cb7b66af4b751a9e9bb30aed04109035262e487cb22483adc907af87075960"
+hash = "e2eadcb0e637d1010b9c631beea54d5c144cc7d4b520ce7c291662ba5aa50b7d"
+
+[[files]]
+file = "config/fabric_loader_dependencies.json"
+hash = "c4156c679ce594d0b0484ff1807d7730262ae85c12b621374c1fd0c1a15f81ca"
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
@@ -16,6 +20,16 @@ metafile = true
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "01fb8de4790c75eb8baeea98c549a82c3880ec145cb8dcf1969504128d0bb96a"
+metafile = true
+
+[[files]]
+file = "mods/borderless-mining.pw.toml"
+hash = "525498ee620860d04d7372e57789ccc5ec8c926aebe72fb60e18224925deb523"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "4a8ae393fe2b52e6aa5353d44d12a609a01666e750828da3891faa935f816d8e"
 metafile = true
 
 [[files]]

@@ -1,15 +1,15 @@
 name = "Simply Infinite"
 author = "ConGodsted"
-version = "1.0.1"
+version = "1.0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "682f3e993ca0e1f086c5e5a6c9cbc79ce2a1abecbb64b0dd5026c4e0cf6e826c"
+hash = "2b781cff17434aec1122aaeca5d110c8dc8c0284fc13e015f4c312c6b5c740ea"
 
 [versions]
-fabric = "0.11.7"
+fabric = "0.14.23"
 minecraft = "20w14infinite"
 
 [options]
