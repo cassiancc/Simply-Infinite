@@ -1,5 +1,6 @@
 name = "sodium"
 filename = "sodium-20w14infinite-backport-fabric-0.1.1-SNAPSHOT+2020-12-10.jar"
+side = "client"
 
 [download]
 url = "https://github.com/mrmangohands/sodium-fabric/releases/download/mc20w14infinite-0.1.1-SNAPSHOT%2B2020-12-10/sodium-20w14infinite-backport-fabric-0.1.1-SNAPSHOT+2020-12-10.jar"

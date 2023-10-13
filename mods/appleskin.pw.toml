@@ -1,5 +1,7 @@
 name = "appleskin"
 filename = "appleskin-1.0.8.jar"
+side = "client"
+
 
 [download]
 url = "https://github.com/ConGodsted/AppleSkin-Infinite/releases/download/1.0.8-20w14infinite/appleskin-1.0.8.jar"

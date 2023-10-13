@@ -1,6 +1,6 @@
 name = "Mouse Wheelie (Fabric)"
 filename = "mousewheelie-1.4.2+20w12a.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
