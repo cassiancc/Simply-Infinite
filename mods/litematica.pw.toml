@@ -1,0 +1,7 @@
+name = "litematica"
+filename = "litematica-0.0.0-infinite.jar"
+
+[download]
+url = "https://github.com/ConGodsted/Litematica-Infinite/releases/download/0.0.0-infinite/litematica-0.0.0-infinite.jar"
+hash-format = "sha256"
+hash = "f8ce0518ba7987b002460080c346547cb1def2f3c4a835fce674ed5bee183fe0"

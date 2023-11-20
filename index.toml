@@ -10,7 +10,7 @@ hash = "e2eadcb0e637d1010b9c631beea54d5c144cc7d4b520ce7c291662ba5aa50b7d"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "c4156c679ce594d0b0484ff1807d7730262ae85c12b621374c1fd0c1a15f81ca"
+hash = "2a962124b4f727c86c24b38b4a3a825f50a8b40bc433a2fab166ab400037df3e"
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
@@ -53,8 +53,18 @@ hash = "ea127e8f74006f3a9ce099f9e96adaa3b3f4f281231ece703c4e7f9732137ebd"
 metafile = true
 
 [[files]]
+file = "mods/litematica.pw.toml"
+hash = "98999fada86982341014268882e764642ca07e4fd9795d1ab6033c7fc4fe7126"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "a249a5c53a1a75106240bd5ea3e6f4d41153430b6291681dda464d427dae3e6d"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "6e34e8b10059eb3a7895ef0aa04c0f866505cd5cb4c2bb9ed866c3cbfb184895"
 metafile = true
 
 [[files]]
