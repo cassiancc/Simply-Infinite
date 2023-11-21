@@ -1,7 +1,7 @@
 name = "malilib"
-filename = "malilib-fabric-0.10.0-dev.20+infinite.jar"
+filename = "malilib-fabric-0.10.0-dev.21+infinite.jar"
 
 [download]
-url = "https://github.com/ConGodsted/Malilib-Infinite/releases/download/fabric-infinite-0.10.0-dev.20/malilib-fabric-0.10.0-dev.20+infinite.jar"
+url = "https://github.com/ConGodsted/Malilib-Infinite/releases/download/fabric-infinite-0.10.0-dev.20/malilib-fabric-0.10.0-dev.21+infinite.jar"
 hash-format = "sha256"
-hash = "506e9b7a300bd1a082323385b95c236e05e8f3fa29adaa1da9344363d8697c90"
+hash = "a1968a6b5b5d462e09fef946ac44b4c76c03c1f6cacaba316dac85d2fa6b07e4"

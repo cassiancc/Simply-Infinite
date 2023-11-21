@@ -54,7 +54,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "98999fada86982341014268882e764642ca07e4fd9795d1ab6033c7fc4fe7126"
+hash = "4ec11614f5fbaa16bcebf5bc58aee0f3d2b9aa7fb65024b0c5a85aecf3dc8e66"
 metafile = true
 
 [[files]]
@@ -64,7 +64,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "6e34e8b10059eb3a7895ef0aa04c0f866505cd5cb4c2bb9ed866c3cbfb184895"
+hash = "fa0ace6c197c0f60bc0dbb8ba5fffe383f9efed27a050adceceff68752b2997b"
 metafile = true
 
 [[files]]
