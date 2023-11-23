@@ -78,11 +78,6 @@ hash = "4d4cd6542772daa7a11b8be49078774f74f0ec5cab7cad6dff2860a3ca897c9c"
 metafile = true
 
 [[files]]
-file = "mods/phosphor.pw.toml"
-hash = "320194672d311a72b137a1615ceaed1ef0ae2941bbf0e00d50735b8812a376d1"
-metafile = true
-
-[[files]]
 file = "mods/roughly-enough-items.pw.toml"
 hash = "059a17ea9c1f60240a54fa3ea2e76af5d9721ecdfecf31aa39448caf68e0c699"
 metafile = true
@@ -98,8 +93,18 @@ hash = "0f0e5868c513a7864d31fc9f1520f684602770c3be70bcd88267be0af577a62a"
 metafile = true
 
 [[files]]
+file = "mods/starlight.pw.toml"
+hash = "f42811466125717276c1030a0df38be9a3c3f4de7c8769d14f15d1620f119a5c"
+metafile = true
+
+[[files]]
 file = "mods/tick-stasis.pw.toml"
 hash = "5a6e4cb2f7907958cc00174a6fae3c8705581d3b0b9fa607d55001e6fcff060d"
+metafile = true
+
+[[files]]
+file = "mods/voyager.pw.toml"
+hash = "62efae1a961bf6062b4c40987ecf7852ead489275fb8632b419cf700ed640866"
 metafile = true
 
 [[files]]
