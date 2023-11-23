@@ -1,0 +1,7 @@
+name = "starlight"
+filename = "starlight+20w14infinite-1.0.0-alpha.jar"
+
+[download]
+url = "https://github.com/KingContaria/Starlight-1.14/releases/download/1.14%2F1.0.0-alpha/starlight+20w14infinite-1.0.0-alpha.jar"
+hash-format = "sha256"
+hash = "63b2e6a454635c71f4c304833b3b1bc51cc12f7643e96659a68590136f24ea3c"

@@ -1,0 +1,7 @@
+name = "voyager"
+filename = "voyager-1.0.0.jar"
+
+[download]
+url = "https://github.com/modmuss50/Voyager/releases/download/1.0.0/voyager-1.0.0.jar"
+hash-format = "sha256"
+hash = "aee9cb70aa1e5ffcc174a70ea153cffded9ab7a1bd849e18d947accdd5ae9150"
