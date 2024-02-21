@@ -1,7 +1,7 @@
-name = "Sheep Consistency"
+name = "sheep-consistency"
 filename = "sheepconsistency-1.0.0.jar"
 
 [download]
-url = "https://github.com/cassiancc/SheepConsistency-infinite/releases/download/1.0-20w14infinite/sheepconsistency-1.0.0.jar"
+url = "https://github.com/cassiancc/SheepConsistency-infinite/releases/download/1.0-java8-20w14infinite/sheepconsistency-1.0.0.jar"
 hash-format = "sha256"
-hash = "a6bce2e0898214a252d78271ff0d1d93db88ac64573f09bfa7fef7ac517e9790"
+hash = "3323a05795206e6595f90385eb1456dce31e8fc77c5c24c833c4c5cd26581ad1"
