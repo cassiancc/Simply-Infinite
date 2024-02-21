@@ -1,0 +1,7 @@
+name = "fabrictools"
+filename = "fabrictools-1.0.0.jar"
+
+[download]
+url = "https://github.com/cassiancc/GBfabrictools-Infinite/releases/download/1.0-infinite/fabrictools-1.0.0.jar"
+hash-format = "sha256"
+hash = "46bef97c00cadaa227fd4bce128ef4c3d9798b6b1bd049452b5cd9ed67594360"
