@@ -1,5 +1,5 @@
 name = "Simply Infinite"
-author = "ConGodsted"
+author = "Cassian"
 version = "1.1.4"
 pack-format = "packwiz:1.1.0"
 
@@ -11,6 +11,3 @@ hash = "04e80d12dbc887769943b41a96d95a0293b22fa65bab48a7984b8a88affe3d68"
 [versions]
 fabric = "0.15.6"
 minecraft = "20w14infinite"
-
-[options]
-acceptable-game-versions = ["1.16.2"]
