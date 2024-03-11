@@ -1,12 +1,12 @@
 name = "Simply Infinite"
 author = "Cassian"
-version = "1.1.4"
+version = "1.1.5"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "04e80d12dbc887769943b41a96d95a0293b22fa65bab48a7984b8a88affe3d68"
+hash = "ccd792ab4f4912b15ac44166a13a150094fd0e4a615cff6fca147b983f6c3155"
 
 [versions]
 fabric = "0.15.6"

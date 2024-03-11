@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "LICENSE.txt"
-hash = "e3a994d82e644b03a792a930f574002658412f62407f5fee083f2555c5f23118"
-
-[[files]]
-file = "README.md"
-hash = "e2eadcb0e637d1010b9c631beea54d5c144cc7d4b520ce7c291662ba5aa50b7d"
-
-[[files]]
 file = "config/fabric_loader_dependencies.json"
 hash = "2a962124b4f727c86c24b38b4a3a825f50a8b40bc433a2fab166ab400037df3e"
 
@@ -23,8 +15,8 @@ hash = "ff748c1529948a7152a1e5a596c8996e8af2d2f18618fd639472086395f4a91d"
 metafile = true
 
 [[files]]
-file = "mods/borderless-mining.pw.toml"
-hash = "f9e0662424cb7f0de9f08d026f1bfcb5edd9873ec5f08e2219a264b589bdd8f4"
+file = "mods/clickthrough.pw.toml"
+hash = "81a62ad19f6531358779431edb3053910ee1e6db62f59616d199718a0347d063"
 metafile = true
 
 [[files]]
@@ -35,6 +27,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "36fc407b18fcfd9fd7cb5f3617e73d2aabb6a0341c1758fc86100492da14cdc5"
+metafile = true
+
+[[files]]
+file = "mods/fabrictools.pw.toml"
+hash = "ffb8679155206f780086958e7345c1c3aaa7a9ecf37ef4320b8078091ad7a3c8"
 metafile = true
 
 [[files]]
@@ -50,11 +47,6 @@ metafile = true
 [[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "ea127e8f74006f3a9ce099f9e96adaa3b3f4f281231ece703c4e7f9732137ebd"
-metafile = true
-
-[[files]]
-file = "mods/litematica.pw.toml"
-hash = "4ec11614f5fbaa16bcebf5bc58aee0f3d2b9aa7fb65024b0c5a85aecf3dc8e66"
 metafile = true
 
 [[files]]
@@ -88,6 +80,16 @@ hash = "b9f59c1eaddde8d284d91d791a28d83d69f7a4ed34a09529e438d5324cf26728"
 metafile = true
 
 [[files]]
+file = "mods/sheep-consistency.pw.toml"
+hash = "2d7d157a09425677b097bd16f6a64a0589dea96041e8c808e58bcebd3b37a333"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "9f85b1d299690593fea207108bfc1c6fbc116edbf948e4f6219340db1eb067db"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "0f0e5868c513a7864d31fc9f1520f684602770c3be70bcd88267be0af577a62a"
 metafile = true
@@ -100,6 +102,11 @@ metafile = true
 [[files]]
 file = "mods/tick-stasis.pw.toml"
 hash = "5a6e4cb2f7907958cc00174a6fae3c8705581d3b0b9fa607d55001e6fcff060d"
+metafile = true
+
+[[files]]
+file = "mods/voxelmap.pw.toml"
+hash = "483bcd5bc3b3f14ac1e720dccc31a0c6ff12c2d9215cb0a78c2741838eb16d33"
 metafile = true
 
 [[files]]
