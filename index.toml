@@ -90,6 +90,11 @@ hash = "9f85b1d299690593fea207108bfc1c6fbc116edbf948e4f6219340db1eb067db"
 metafile = true
 
 [[files]]
+file = "mods/sleepbackground.pw.toml"
+hash = "66487f2ff71e850839ac66d774d643e7cc7120b6e4750651cad9dc8420f37d0e"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "0f0e5868c513a7864d31fc9f1520f684602770c3be70bcd88267be0af577a62a"
 metafile = true
