@@ -1,0 +1,13 @@
+name = "VoxelMap"
+filename = "fabricmod_VoxelMap-1.9.16b_for_1.16(20w13ab).jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "94a9b88342865cb8aab2a4ef67ee20f55f3b73fb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2918611
+project-id = 225179
