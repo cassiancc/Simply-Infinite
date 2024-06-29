@@ -1,0 +1,13 @@
+name = "NetherPortalColorFix"
+filename = "portal_updater-inf-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Omwdh6VQ/versions/LXsrA45L/portal_updater-inf-1.0.0.jar"
+hash-format = "sha1"
+hash = "0e2327b3081ec797b772db741fc664e5c7033f52"
+
+[update]
+[update.modrinth]
+mod-id = "Omwdh6VQ"
+version = "LXsrA45L"

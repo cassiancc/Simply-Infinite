@@ -25,6 +25,10 @@ hash = "b79754fe8766c1ce68592e47040b50ec764dba3162e653afd893dbf8b5edd2ef"
 metafile = true
 
 [[files]]
+file = "mods/fabric-item-api-v1-infinite.jar"
+hash = "a6029d13e4be20955244c6c25beac9a3e8bcfdbde0e372397d94d9cd13e21f3b"
+
+[[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "36fc407b18fcfd9fd7cb5f3617e73d2aabb6a0341c1758fc86100492da14cdc5"
 metafile = true
@@ -67,6 +71,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-wheelie.pw.toml"
 hash = "4d4cd6542772daa7a11b8be49078774f74f0ec5cab7cad6dff2860a3ca897c9c"
+metafile = true
+
+[[files]]
+file = "mods/netherportalcolorfix.pw.toml"
+hash = "c496a8137b0445a73ea749a7b5098ccc919b0a3842aa156eb76a8319b1c98350"
 metafile = true
 
 [[files]]
