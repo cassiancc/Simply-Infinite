@@ -1,7 +1,0 @@
-name = "clickthrough"
-filename = "clickthrough-1.0.0.jar"
-
-[download]
-url = "https://github.com/cassiancc/ClickThrough-Infinite/releases/download/clickthrough-java8-infinite/clickthrough-1.0.0.jar"
-hash-format = "sha256"
-hash = "7b4a0cb6cb393424e72e392c4e68fc84bc8264243e45db906a0eeceaeb7fa814"

@@ -15,18 +15,19 @@ hash = "ff748c1529948a7152a1e5a596c8996e8af2d2f18618fd639472086395f4a91d"
 metafile = true
 
 [[files]]
-file = "mods/clickthrough.pw.toml"
-hash = "81a62ad19f6531358779431edb3053910ee1e6db62f59616d199718a0347d063"
+file = "mods/clickthrough+.pw.toml"
+hash = "bed2f69668402002659c28042dbfddf02c2df9c92b7c5beb4195e3aba2fde0a0"
+metafile = true
+
+[[files]]
+file = "mods/dragon-hitbox-fix.pw.toml"
+hash = "24864db23aad573ad26259de760240b57386d87968acc9d874093a4fb4b04253"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "b79754fe8766c1ce68592e47040b50ec764dba3162e653afd893dbf8b5edd2ef"
 metafile = true
-
-[[files]]
-file = "mods/fabric-item-api-v1-infinite.jar"
-hash = "a6029d13e4be20955244c6c25beac9a3e8bcfdbde0e372397d94d9cd13e21f3b"
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
@@ -39,6 +40,11 @@ hash = "ffb8679155206f780086958e7345c1c3aaa7a9ecf37ef4320b8078091ad7a3c8"
 metafile = true
 
 [[files]]
+file = "mods/fullscreeno.pw.toml"
+hash = "4c7f9ede557a6cca6678cfd3992b99e6ac18bc5452b7570787bd5a8651ca4134"
+metafile = true
+
+[[files]]
 file = "mods/held-item-info.pw.toml"
 hash = "0c112260d46107e052f34a6ad77db4b168f88445a755c3ac618129bba43bf0ab"
 metafile = true
@@ -46,6 +52,11 @@ metafile = true
 [[files]]
 file = "mods/hwyla.pw.toml"
 hash = "dda350fbdcecb0f4c7d3ae464d4414b6bdb197568841b17a179b3a31625d4f99"
+metafile = true
+
+[[files]]
+file = "mods/item-descriptions.pw.toml"
+hash = "3aba7dcf0f58c93dad1115c5c716c89a72649969887716ebe2d4eec3cdff9994"
 metafile = true
 
 [[files]]

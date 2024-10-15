@@ -1,0 +1,13 @@
+name = "1.15 Dragon Hitbox Fix"
+filename = "dragonhitbox-fix-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Tm9leNJt/versions/QR8l0A79/dragonhitbox-fix-1.0.0.jar"
+hash-format = "sha1"
+hash = "87bd3d823e932c39fb7e372a8eccdacae15e5b01"
+
+[update]
+[update.modrinth]
+mod-id = "Tm9leNJt"
+version = "QR8l0A79"

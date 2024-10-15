@@ -1,0 +1,13 @@
+name = "Item Descriptions"
+filename = "item_descriptions-1.11+20w14infinite.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/UaizcMKP/versions/HJorimgb/item_descriptions-1.11%2B20w14infinite.jar"
+hash-format = "sha1"
+hash = "59962dba1fce6b8838b903721a3b4c6e1fd139f5"
+
+[update]
+[update.modrinth]
+mod-id = "UaizcMKP"
+version = "HJorimgb"
